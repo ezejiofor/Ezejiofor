@@ -28,6 +28,8 @@
 <a href="https://httpd.apache.org/docs/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg" alt="APACHE" width="100" height="100"/> </a>
 <a href="https://docs.nginx.com/?_ga=2.1826929.1587265740.1650670317-1937590999.1650670317" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg" alt="NGINX" width="100" height="100"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/> </a>
+<a href="https://docs.github.com/en" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" width="100" height="100"/> </a>
+<a href="https://docs.gitlab.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg" alt="gitlab" width="100" height="100"/> </a>
 <a href="https://www.terraform.io/docs" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform" width="100" height="100"/> </a>
 <a href="https://docs.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible" width="100" height="100"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="100" height="100"/> </a>
