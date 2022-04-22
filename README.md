@@ -26,7 +26,11 @@
 <a href="https://cloud.google.com/docs" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="GoogleCloud" width="100" height="100"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="100" height="100"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/> </a>
+<a href="https://www.terraform.io/docs" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="Terraform" width="100" height="100"/> </a>
+<a href="https://docs.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="Ansible" width="100" height="100"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="100" height="100"/> </a>
+<a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg" alt="ArgoCD" width="100" height="100"/> </a>
+<a href="https://docs.openshift.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/openshift/openshift-ar21.svg" alt="OpenShift" width="100" height="100"/> </a>
 </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="100" height="100"/> </a> 
 <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="100" height="100"/> </a> 
 <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="100" height="100"/> </a> 
