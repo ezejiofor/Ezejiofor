@@ -46,8 +46,8 @@
 <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="100" height="100"/> </a>
 
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ezejiofor&theme=dark&show_icons=true" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezejiofor&show_icons=true&locale=en" alt="ezejiofor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezejiofor" alt="ezejiofor" /></p>
