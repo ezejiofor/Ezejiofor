@@ -52,7 +52,7 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ezejiofor&theme=dark&show_icons=true" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ezejiofor&theme=radical&show_icons=true" /></p>
 
 <br>
 <br>
