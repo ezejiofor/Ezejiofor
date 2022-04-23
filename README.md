@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **DevOps - Cloud - AWS - GitOps - Azure - GCP - K8s**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/george-ezejiofor-89615a8a/](https://www.linkedin.com/in/george-ezejiofor-89615a8a/)
+- 📝 Here is my LinkedIn profile [https://www.linkedin.com/in/george-ezejiofor-89615a8a/](https://www.linkedin.com/in/george-ezejiofor-89615a8a/)
+- 😊 Here is my Portforlio [https://www.georgeezejiofor.co.uk/](https://www.georgeezejiofor.co.uk/)
 
 - 📫 How to reach me **ezejiofor.og@gmail.com**
 
