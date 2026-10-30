@@ -13,10 +13,7 @@
   <img src="https://img.shields.io/badge/Blog-georgeezejiofor.com-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=0E1726" alt="Blog" />
 </a>
 <a href="https://www.linkedin.com/in/george-ezejiofor-89615a8a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0E1726" alt="LinkedIn" />
-</a>
-<a href="mailto:ezejiofor.og@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0E1726" alt="Email" />
+  <img src="https://img.shields.io/badge/LinkedIn-Message_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0E1726" alt="LinkedIn" />
 </a>
 
 <br /><br />
@@ -204,7 +201,9 @@ More: <a href="https://georgeezejiofor.com/ha-rook-ceph-cloudnativepg-storage-rk
 
 **Open to DevSecOps, platform and MLOps engineering roles.**
 
-<a href="https://georgeezejiofor.co.uk/">georgeezejiofor.co.uk</a> &nbsp;·&nbsp; <a href="https://georgeezejiofor.com/">georgeezejiofor.com</a> &nbsp;·&nbsp; <a href="mailto:ezejiofor.og@gmail.com">ezejiofor.og@gmail.com</a>
+The best way to reach me is a message on <a href="https://www.linkedin.com/in/george-ezejiofor-89615a8a/">LinkedIn</a>.
+
+<a href="https://georgeezejiofor.co.uk/">georgeezejiofor.co.uk</a> &nbsp;·&nbsp; <a href="https://georgeezejiofor.com/">georgeezejiofor.com</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4d2c,40:13261c,100:0E1726&height=120&section=footer" width="100%" alt="" />
 
