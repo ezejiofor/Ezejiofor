@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1726,60:13261c,100:1f4d2c&height=230&section=header&text=GEORGE%20EZEJIOFOR&fontSize=64&fontColor=3FB950&fontAlignY=38&desc=DevSecOps%20%C2%B7%20Platform%20%26%20MLOps%20Engineer&descAlignY=60&descSize=20&descColor=9AA9BD&animation=fadeIn" width="100%" alt="George Ezejiofor, DevSecOps, Platform and MLOps Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1726,60:13261c,100:1f4d2c&height=230&section=header&text=GEORGE%20EZEJIOFOR&fontSize=64&fontColor=3FB950&fontAlignY=38&desc=DevSecOps%20%C2%B7%20Platform%20and%20MLOps%20Engineer&descAlignY=60&descSize=20&descColor=9AA9BD&animation=fadeIn" width="100%" alt="George Ezejiofor, DevSecOps, Platform and MLOps Engineer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1200&color=3FB950&center=true&vCenter=true&width=640&height=45&lines=DevSecOps+Engineer;Kubernetes+%26+Platform+Engineer;GitOps+%26+Supply-Chain+Security;MLOps+%26+Data+Lakehouse+Builder;Kubeflow+Contributor" alt="Roles" />
 
